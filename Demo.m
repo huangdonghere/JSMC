@@ -5,7 +5,7 @@
 %
 % Xiaosha Cai, Dong Huang, Guangyu Zhang, Chang-Dong Wang. 
 % Seeking Commonness and Inconsistencies: A Jointly Smoothed Approach to 
-% Multi-view Subspace Clustering. Information Fusion, in press, 2022. 
+% Multi-view Subspace Clustering. Information Fusion, 2023, 91:364-375.
 %
 % DOI: 10.1016/j.inffus.2022.10.020
 %%
