@@ -2,6 +2,6 @@ This is a demo for the Jointly Smoothed Multi-view subspace Clustering (JSMC) al
 
 Xiaosha Cai, Dong Huang, Guangyu Zhang, Chang-Dong Wang. 
 Seeking Commonness and Inconsistencies: A Jointly Smoothed Approach to Multi-view Subspace Clustering. 
-Information Fusion, in press, 2022. 
+Information Fusion, 2023, vol.91, pp.364-375. 
 
 DOI: 10.1016/j.inffus.2022.10.020
